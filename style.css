@@ -23,7 +23,7 @@ img {
 }
 
 .hero {
-    background-image: url(image/photo.jpeg),
+    background-image: url(photo.jpeg),
         linear-gradient(to bottom, rgba(32, 29, 29, 0.5),
             rgba(11, 10, 10, 0.5));
     background-size: cover;
@@ -421,7 +421,7 @@ button:hover {
 }
 
 .cantact-page {
-    background: url(image/download\ \(48\).jpeg);
+    background: url(download\ \(48\).jpeg);
     linear-gradient(to bottom, rgba(32, 29, 29, 0.5),
         rgba(11, 10, 10, 0.5));
     background-size: cover;
